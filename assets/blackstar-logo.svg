@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 800"><defs><path id="spark" d="M710 10C570 230 545 295 565 335C590 377 760 386 910 390C615 393 545 410 470 510L220 770C340 565 385 490 360 455C330 410 180 396 20 395C330 390 410 365 485 270Z"/></defs><g fill="#f39fba"><use href="#spark"/><use href="#spark" transform="translate(665 72) scale(.31)"/></g></svg>
